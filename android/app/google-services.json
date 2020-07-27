@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1085840611902",
+    "firebase_url": "https://binarylogs-3ccbc.firebaseio.com",
+    "project_id": "binarylogs-3ccbc",
+    "storage_bucket": "binarylogs-3ccbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085840611902:android:697e6841a0f4f8432ccf6f",
+        "android_client_info": {
+          "package_name": "tk.theadityamhatre.binarylogs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085840611902-432q2j8i6ee9m916km8r43h9birn9193.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo0SHxXj22qTL70zV00UhfZ8dSECNY6W0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085840611902-432q2j8i6ee9m916km8r43h9birn9193.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
