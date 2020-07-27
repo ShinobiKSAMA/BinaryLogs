@@ -1,16 +1,40 @@
-# binarylogs
+# BinaryLogs
 
-BinaryLogs, Blog Now Have New Meaning
+BinaryLogs is A Blogging Application Written in Dart Language with Flutter Framework.
 
-## Getting Started
+## UI
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<table>
+  <thead>
+    <tr>
+      <th align="center">
+        <a target="_blank" rel="noopener noreferrer" href="/Screenshots/Social_Feed.jpg">
+          <img src="/Screenshots/Social_Feed.jpg" alt="Social Feed" style="max-width:100%;">
+        </a>
+      </th>
+      <th align="center">
+        <a target="_blank" rel="noopener noreferrer" href="/Screenshots/Blog.jpg">
+          <img src="/Screenshots/Blog.jpg" alt="Blog Screen" style="max-width:100%;">
+        </a>
+      </th>
+      <th align="center">
+        <a target="_blank" rel="noopener noreferrer" href="/Screenshots/Create_Blog.jpg">
+          <img src="/Screenshots/Create_Blog.jpg" alt="Create Blog" style="max-width:100%;">
+        </a>
+      </th>
+      <th align="center">
+        <a target="_blank" rel="noopener noreferrer" href="/Screenshots/Profile_Page.jpg">
+          <img src="/Screenshots/Profile_Page.jpg" alt="Profile Page" style="max-width:100%;">
+        </a>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">Social Feed</td>
+      <td align="center">Blog Screen</td>
+      <td align="center">Create Blog</td>
+      <td align="center">Profile Page</td>
+    </tr>
+  </tbody>
+</table>
